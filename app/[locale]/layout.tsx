@@ -7,7 +7,7 @@ import { FloatMenu } from "@/components/float-menu"
 import { ThemeProvider } from "@/components/theme/theme-provider"
 import { Toaster } from "@/components/ui/toaster"
 import { cn } from "@/lib/utils"
-// import { zpix } from "../fonts"
+import { zpix } from "../fonts"
 import "../globals.css"
 import { Providers } from "../providers"
 
