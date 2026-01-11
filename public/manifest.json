@@ -1,6 +1,6 @@
 {
-  "name": "HudiMail",
-  "short_name": "HudiMail",
+  "name": "Mail",
+  "short_name": "Mail",
   "description": "Hudi的萌萌哒临时邮箱服务",
   "start_url": "/",
   "display": "standalone",
