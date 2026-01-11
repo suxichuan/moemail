@@ -1,7 +1,7 @@
 {
-  "name": "MoeMail",
-  "short_name": "MoeMail",
-  "description": "萌萌哒临时邮箱服务",
+  "name": "HudiMail",
+  "short_name": "HudiMail",
+  "description": "Hudi的萌萌哒临时邮箱服务",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
